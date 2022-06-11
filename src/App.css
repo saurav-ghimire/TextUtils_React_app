@@ -1,0 +1,53 @@
+.logo {
+  display: block;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.logo h4 {
+  display: inline-block;
+  padding: 20px;
+  background-color: #e0dddd;
+  text-transform: uppercase;
+}
+
+.nav {
+  justify-content: space-around;
+}
+
+.nav a {
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #000;
+}
+
+.fromWrapper h1 {
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+
+}
+
+.fromWrapper textarea {
+  border: 5px solid #eee;
+  padding: 20px;
+}
+
+.fromWrapper .summary-box {
+  padding: 20px;
+  background-color: rgb(0, 102, 255);
+}
+
+.fromWrapper .summary-box h2,
+.fromWrapper .summary-box p {
+  color: #fff;
+}
+
+.fromWrapper .summary-box i {
+  color: #fff;
+  padding: 20px;
+  background-color: rgb(9, 84, 198);
+  display: block;
+
+}
